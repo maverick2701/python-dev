@@ -7,7 +7,7 @@ def greet(name="John"):
     print("Hello, " + name)
 
 greet()
-``
+
 x = 17
 y = 25
 def add_numbers(a,b):
