@@ -21,7 +21,8 @@ print(thislist)
 thislist.append(10)
 print(thislist)
 print(f"""The number of occurences of banana in the list is {thislist.count("banana")}""") #Use triple quotes if you need to use double quotes inside f-string
-
+thislist.pop()
+print(thislist)
 #-------------------------------------------------------------------------------------------
 
 # Tuple
